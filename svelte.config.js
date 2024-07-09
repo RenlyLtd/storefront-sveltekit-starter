@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-vercel'
+import adapter from '@sveltejs/adapter-node';
 import preprocess from 'svelte-preprocess'
 import { resolve } from 'path'
 
@@ -20,3 +20,6 @@ const config = {
 }
 
 export default config
+
+
+
