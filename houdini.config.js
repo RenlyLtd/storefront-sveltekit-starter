@@ -1,6 +1,6 @@
 /** @type {import('houdini').ConfigFile} */
 const config = {
-	apiUrl: 'https://readonlydemo.vendure.io/shop-api',
+	apiUrl: 'https://ob-vendure.up.railway.app/shop-api',
 	plugins: {
 		'houdini-svelte': {
 			client: './src/client',
