@@ -1,3 +1,5 @@
+/// <references types="houdini-svelte">
+
 /** @type {import('houdini').ConfigFile} */
 const config = {
 	apiUrl: 'https://ob-vendure.up.railway.app/shop-api',
